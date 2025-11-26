@@ -1,0 +1,622 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "john@example.com",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=150&h=150&fit=crop&crop=face",
+      "role": "Frontend Developer",
+      "status": "active"
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "email": "jane@example.com",
+      "avatar": "https://images.unsplash.com/photo-1494790108755-2616b612b786?w=150&h=150&fit=crop&crop=face",
+      "role": "UX Designer",
+      "status": "active"
+    },
+    {
+      "id": 3,
+      "name": "Mike Johnson",
+      "email": "mike@example.com",
+      "avatar": "https://images.unsplash.com/photo-1519244703995-f4e0f30006d5?w=150&h=150&fit=crop&crop=face",
+      "role": "Backend Developer",
+      "status": "inactive"
+    },
+    {
+      "id": 4,
+      "name": "Sarah Connor",
+      "email": "sarah.c@example.com",
+      "avatar": "https://images.unsplash.com/photo-1506794778202-dfa493ec7be5?w=150&h=150&fit=crop&crop=face",
+      "role": "Project Manager",
+      "status": "active"
+    },
+    {
+      "id": 5,
+      "name": "David Lee",
+      "email": "david.l@example.com",
+      "avatar": "https://images.unsplash.com/photo-1507003211169-0a8165b45236?w=150&h=150&fit=crop&crop=face",
+      "role": "Data Scientist",
+      "status": "active"
+    },
+    {
+      "id": 6,
+      "name": "Emily Chen",
+      "email": "emily.c@example.com",
+      "avatar": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=150&h=150&fit=crop&crop=face",
+      "role": "QA Engineer",
+      "status": "inactive"
+    },
+    {
+      "id": 7,
+      "name": "Chris Evans",
+      "email": "chris.e@example.com",
+      "avatar": "https://images.unsplash.com/photo-1531427186611-ecfd6d936c79?w=150&h=150&fit=crop&crop=face",
+      "role": "DevOps Engineer",
+      "status": "active"
+    },
+    {
+      "id": 8,
+      "name": "Jessica Alba",
+      "email": "jessica.a@example.com",
+      "avatar": "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=150&h=150&fit=crop&crop=face",
+      "role": "Technical Writer",
+      "status": "active"
+    },
+    {
+      "id": 9,
+      "name": "Ryan Gosling",
+      "email": "ryan.g@example.com",
+      "avatar": "https://images.unsplash.com/photo-1542909168-82c72e90538a?w=150&h=150&fit=crop&crop=face",
+      "role": "Frontend Developer",
+      "status": "active"
+    },
+    {
+      "id": 10,
+      "name": "Olivia Wilde",
+      "email": "olivia.w@example.com",
+      "avatar": "https://images.unsplash.com/photo-1508214751430-c3d3a7719f9f?w=150&h=150&fit=crop&crop=face",
+      "role": "UX Designer",
+      "status": "inactive"
+    },
+    {
+      "id": 11,
+      "name": "Ethan Hunt",
+      "email": "ethan.h@example.com",
+      "avatar": "https://images.unsplash.com/photo-1521119989694-813d50c76536?w=150&h=150&fit=crop&crop=face",
+      "role": "Backend Developer",
+      "status": "active"
+    },
+    {
+      "id": 12,
+      "name": "Mia Khalifa",
+      "email": "mia.k@example.com",
+      "avatar": "https://images.unsplash.com/photo-1508214751430-c3d3a7719f9f?w=150&h=150&fit=crop&crop=face",
+      "role": "Product Manager",
+      "status": "active"
+    },
+    {
+      "id": 13,
+      "name": "Noah Brown",
+      "email": "noah.b@example.com",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150&h=150&fit=crop&crop=face",
+      "role": "Data Scientist",
+      "status": "active"
+    },
+    {
+      "id": 14,
+      "name": "Chloe Green",
+      "email": "chloe.g@example.com",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150&h=150&fit=crop&crop=face",
+      "role": "QA Engineer",
+      "status": "inactive"
+    },
+    {
+      "id": 15,
+      "name": "Liam Scott",
+      "email": "liam.s@example.com",
+      "avatar": "https://images.unsplash.com/photo-1507003211169-0a8165b45236?w=150&h=150&fit=crop&crop=face",
+      "role": "DevOps Engineer",
+      "status": "active"
+    },
+    {
+      "id": 16,
+      "name": "Avery King",
+      "email": "avery.k@example.com",
+      "avatar": "https://images.unsplash.com/photo-1531427186611-ecfd6d936c79?w=150&h=150&fit=crop&crop=face",
+      "role": "Technical Writer",
+      "status": "active"
+    },
+    {
+      "id": 17,
+      "name": "Leo Martin",
+      "email": "leo.m@example.com",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=150&h=150&fit=crop&crop=face",
+      "role": "Frontend Developer",
+      "status": "active"
+    },
+    {
+      "id": 18,
+      "name": "Zoe Perez",
+      "email": "zoe.p@example.com",
+      "avatar": "https://images.unsplash.com/photo-1494790108755-2616b612b786?w=150&h=150&fit=crop&crop=face",
+      "role": "UX Designer",
+      "status": "active"
+    },
+    {
+      "id": 19,
+      "name": "Max Miller",
+      "email": "max.m@example.com",
+      "avatar": "https://images.unsplash.com/photo-1519244703995-f4e0f30006d5?w=150&h=150&fit=crop&crop=face",
+      "role": "Backend Developer",
+      "status": "inactive"
+    },
+    {
+      "id": 20,
+      "name": "Ruby Taylor",
+      "email": "ruby.t@example.com",
+      "avatar": "https://images.unsplash.com/photo-1506794778202-dfa493ec7be5?w=150&h=150&fit=crop&crop=face",
+      "role": "Project Manager",
+      "status": "active"
+    },
+    {
+      "id": 21,
+      "name": "Sam Wilson",
+      "email": "sam.w@example.com",
+      "avatar": "https://images.unsplash.com/photo-1507003211169-0a8165b45236?w=150&h=150&fit=crop&crop=face",
+      "role": "Data Scientist",
+      "status": "active"
+    },
+    {
+      "id": 22,
+      "name": "Kate Bell",
+      "email": "kate.b@example.com",
+      "avatar": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=150&h=150&fit=crop&crop=face",
+      "role": "QA Engineer",
+      "status": "active"
+    },
+    {
+      "id": 23,
+      "name": "Will Turner",
+      "email": "will.t@example.com",
+      "avatar": "https://images.unsplash.com/photo-1531427186611-ecfd6d936c79?w=150&h=150&fit=crop&crop=face",
+      "role": "DevOps Engineer",
+      "status": "inactive"
+    },
+    {
+      "id": 24,
+      "name": "Eve Adams",
+      "email": "eve.a@example.com",
+      "avatar": "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=150&h=150&fit=crop&crop=face",
+      "role": "Technical Writer",
+      "status": "active"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Wireless Headphones",
+      "price": 199.99,
+      "category": "Electronics",
+      "rating": 4.5,
+      "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=300&h=300&fit=crop",
+      "inStock": true,
+      "description": "High-quality wireless headphones with noise cancellation"
+    },
+    {
+      "id": 2,
+      "name": "Smart Watch",
+      "price": 299.99,
+      "category": "Electronics",
+      "rating": 4.2,
+      "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=300&h=300&fit=crop",
+      "inStock": true,
+      "description": "Feature-rich smartwatch with health monitoring"
+    },
+    {
+      "id": 3,
+      "name": "Coffee Maker",
+      "price": 89.99,
+      "category": "Home",
+      "rating": 4.7,
+      "image": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=300&h=300&fit=crop",
+      "inStock": false,
+      "description": "Automatic coffee maker with programmable settings"
+    },
+    {
+      "id": 4,
+      "name": "Gaming Laptop",
+      "price": 1299.99,
+      "category": "Computers",
+      "rating": 4.8,
+      "image": "https://images.unsplash.com/photo-1541807084534-c0234208a38a?w=300&h=300&fit=crop",
+      "inStock": true,
+      "description": "High-performance laptop for gaming and creative work"
+    },
+    {
+      "id": 5,
+      "name": "Ergonomic Office Chair",
+      "price": 350.00,
+      "category": "Office",
+      "rating": 4.6,
+      "image": "https://images.unsplash.com/photo-1518451868512-32a3928236d3?w=300&h=300&fit=crop",
+      "inStock": true,
+      "description": "Adjustable chair for maximum comfort and support"
+    },
+    {
+      "id": 6,
+      "name": "Portable Bluetooth Speaker",
+      "price": 79.50,
+      "category": "Electronics",
+      "rating": 4.3,
+      "image": "https://images.unsplash.com/photo-1546435010-f14d9b737f1c?w=300&h=300&fit=crop",
+      "inStock": true,
+      "description": "Waterproof speaker with long-lasting battery life"
+    },
+    {
+      "id": 7,
+      "name": "4K Smart TV 55 inch",
+      "price": 699.00,
+      "category": "Electronics",
+      "rating": 4.9,
+      "image": "https://images.unsplash.com/photo-1593784179374-2782e4e11e13?w=300&h=300&fit=crop",
+      "inStock": false,
+      "description": "Ultra HD resolution smart TV with streaming apps"
+    },
+    {
+      "id": 8,
+      "name": "Electric Kettle",
+      "price": 35.99,
+      "category": "Home",
+      "rating": 4.1,
+      "image": "https://images.unsplash.com/photo-1628178000405-b778263884d5?w=300&h=300&fit=crop",
+      "inStock": true,
+      "description": "Fast-boiling stainless steel electric kettle"
+    },
+    {
+      "id": 9,
+      "name": "External SSD 1TB",
+      "price": 119.99,
+      "category": "Computers",
+      "rating": 4.7,
+      "image": "https://images.unsplash.com/photo-1537498425277-c283d32ef9db?w=300&h=300&fit=crop",
+      "inStock": true,
+      "description": "High-speed portable solid-state drive"
+    },
+    {
+      "id": 10,
+      "name": "Mechanical Keyboard",
+      "price": 150.00,
+      "category": "Office",
+      "rating": 4.4,
+      "image": "https://images.unsplash.com/photo-1572579043213-90d0b7b257c7?w=300&h=300&fit=crop",
+      "inStock": true,
+      "description": "Tactile mechanical keyboard with customizable RGB lighting"
+    },
+    {
+      "id": 11,
+      "name": "Noise Cancelling Earbuds",
+      "price": 129.00,
+      "category": "Electronics",
+      "rating": 4.6,
+      "image": "https://images.unsplash.com/photo-1620614838495-2070f7d526d1?w=300&h=300&fit=crop",
+      "inStock": true,
+      "description": "Compact earbuds with excellent noise cancellation"
+    },
+    {
+      "id": 12,
+      "name": "Air Fryer",
+      "price": 99.95,
+      "category": "Home",
+      "rating": 4.5,
+      "image": "https://images.unsplash.com/photo-1579705971167-3e112d7c5b6e?w=300&h=300&fit=crop",
+      "inStock": true,
+      "description": "Healthy cooking with less oil using an air fryer"
+    },
+    {
+      "id": 13,
+      "name": "Webcam 1080p",
+      "price": 45.00,
+      "category": "Computers",
+      "rating": 4.0,
+      "image": "https://images.unsplash.com/photo-1592911242316-c954002e2b95?w=300&h=300&fit=crop",
+      "inStock": true,
+      "description": "Full HD webcam for video calls and streaming"
+    },
+    {
+      "id": 14,
+      "name": "Desk Lamp with Wireless Charger",
+      "price": 65.99,
+      "category": "Office",
+      "rating": 4.3,
+      "image": "https://images.unsplash.com/photo-1549462525-502a5c4e6a00?w=300&h=300&fit=crop",
+      "inStock": false,
+      "description": "LED desk lamp with integrated wireless charging pad"
+    },
+    {
+      "id": 15,
+      "name": "VR Headset",
+      "price": 499.99,
+      "category": "Electronics",
+      "rating": 4.8,
+      "image": "https://images.unsplash.com/photo-1606815368553-f725a32e70e9?w=300&h=300&fit=crop",
+      "inStock": true,
+      "description": "Next-generation virtual reality system"
+    },
+    {
+      "id": 16,
+      "name": "Smart Thermostat",
+      "price": 149.00,
+      "category": "Home",
+      "rating": 4.6,
+      "image": "https://images.unsplash.com/photo-1618218151613-2b212f42a033?w=300&h=300&fit=crop",
+      "inStock": true,
+      "description": "Energy-saving thermostat controllable via smartphone"
+    },
+    {
+      "id": 17,
+      "name": "Portable Monitor 15 inch",
+      "price": 179.99,
+      "category": "Computers",
+      "rating": 4.5,
+      "image": "https://images.unsplash.com/photo-1588665324325-1e3c834e0d9b?w=300&h=300&fit=crop",
+      "inStock": true,
+      "description": "Slim and lightweight monitor for on-the-go productivity"
+    },
+    {
+      "id": 18,
+      "name": "Standing Desk Converter",
+      "price": 189.50,
+      "category": "Office",
+      "rating": 4.7,
+      "image": "https://images.unsplash.com/photo-1627993074092-26f6345d2907?w=300&h=300&fit=crop",
+      "inStock": true,
+      "description": "Adjustable riser to turn any desk into a standing desk"
+    },
+    {
+      "id": 19,
+      "name": "Smart Scale",
+      "price": 59.99,
+      "category": "Electronics",
+      "rating": 4.2,
+      "image": "https://images.unsplash.com/photo-1589139150005-0230232b724f?w=300&h=300&fit=crop",
+      "inStock": true,
+      "description": "Body composition scale that syncs data to a mobile app"
+    },
+    {
+      "id": 20,
+      "name": "Robot Vacuum Cleaner",
+      "price": 249.00,
+      "category": "Home",
+      "rating": 4.4,
+      "image": "https://images.unsplash.com/photo-1584820247657-f6558b3833f2?w=300&h=300&fit=crop",
+      "inStock": false,
+      "description": "Automated cleaning robot with smart mapping"
+    },
+    {
+      "id": 21,
+      "name": "Wireless Mouse",
+      "price": 25.99,
+      "category": "Computers",
+      "rating": 4.1,
+      "image": "https://images.unsplash.com/photo-1596489397635-438965f80b95?w=300&h=300&fit=crop",
+      "inStock": true,
+      "description": "Comfortable and responsive wireless optical mouse"
+    },
+    {
+      "id": 22,
+      "name": "Leather Journal",
+      "price": 19.99,
+      "category": "Office",
+      "rating": 4.9,
+      "image": "https://images.unsplash.com/photo-1585244510002-c94628f416c1?w=300&h=300&fit=crop",
+      "inStock": true,
+      "description": "Premium leather-bound notebook for writing"
+    },
+    {
+      "id": 23,
+      "name": "Dumbbell Set 50lb",
+      "price": 159.00,
+      "category": "Fitness",
+      "rating": 4.6,
+      "image": "https://images.unsplash.com/photo-1574680096145-d05b4742ab11?w=300&h=300&fit=crop",
+      "inStock": true,
+      "description": "Adjustable dumbbell set for home workouts"
+    }
+  ],
+  "tasks": [
+    {
+      "id": 1,
+      "title": "Design Homepage",
+      "assignee": "Jane Smith",
+      "status": "completed",
+      "priority": "high",
+      "dueDate": "2024-01-15"
+    },
+    {
+      "id": 2,
+      "title": "Implement API Integration",
+      "assignee": "John Doe",
+      "status": "in-progress",
+      "priority": "high",
+      "dueDate": "2024-01-20"
+    },
+    {
+      "id": 3,
+      "title": "Write Documentation",
+      "assignee": "Mike Johnson",
+      "status": "pending",
+      "priority": "medium",
+      "dueDate": "2024-01-25"
+    },
+    {
+      "id": 4,
+      "title": "Finalize Marketing Strategy",
+      "assignee": "Sarah Connor",
+      "status": "completed",
+      "priority": "high",
+      "dueDate": "2024-01-18"
+    },
+    {
+      "id": 5,
+      "title": "Database Schema Review",
+      "assignee": "David Lee",
+      "status": "in-progress",
+      "priority": "low",
+      "dueDate": "2024-02-01"
+    },
+    {
+      "id": 6,
+      "title": "Perform System Load Testing",
+      "assignee": "Emily Chen",
+      "status": "pending",
+      "priority": "high",
+      "dueDate": "2024-02-10"
+    },
+    {
+      "id": 7,
+      "title": "Set up CI/CD Pipeline",
+      "assignee": "Chris Evans",
+      "status": "in-progress",
+      "priority": "high",
+      "dueDate": "2024-01-30"
+    },
+    {
+      "id": 8,
+      "title": "Draft User Manual",
+      "assignee": "Jessica Alba",
+      "status": "completed",
+      "priority": "medium",
+      "dueDate": "2024-01-22"
+    },
+    {
+      "id": 9,
+      "title": "Refactor Login Component",
+      "assignee": "Ryan Gosling",
+      "status": "in-progress",
+      "priority": "high",
+      "dueDate": "2024-02-05"
+    },
+    {
+      "id": 10,
+      "title": "User Flow Analysis",
+      "assignee": "Olivia Wilde",
+      "status": "pending",
+      "priority": "medium",
+      "dueDate": "2024-02-15"
+    },
+    {
+      "id": 11,
+      "title": "Implement Payment Gateway",
+      "assignee": "Ethan Hunt",
+      "status": "in-progress",
+      "priority": "high",
+      "dueDate": "2024-02-28"
+    },
+    {
+      "id": 12,
+      "title": "Q3 Product Roadmap",
+      "assignee": "Mia Khalifa",
+      "status": "completed",
+      "priority": "high",
+      "dueDate": "2024-01-05"
+    },
+    {
+      "id": 13,
+      "title": "Data Migration Script",
+      "assignee": "Noah Brown",
+      "status": "in-progress",
+      "priority": "medium",
+      "dueDate": "2024-02-12"
+    },
+    {
+      "id": 14,
+      "title": "Accessibility Testing",
+      "assignee": "Chloe Green",
+      "status": "pending",
+      "priority": "low",
+      "dueDate": "2024-02-20"
+    },
+    {
+      "id": 15,
+      "title": "Monitor Server Health",
+      "assignee": "Liam Scott",
+      "status": "completed",
+      "priority": "low",
+      "dueDate": "2024-01-01"
+    },
+    {
+      "id": 16,
+      "title": "Update FAQ Section",
+      "assignee": "Avery King",
+      "status": "in-progress",
+      "priority": "medium",
+      "dueDate": "2024-02-08"
+    },
+    {
+      "id": 17,
+      "title": "Develop User Profile Page",
+      "assignee": "Leo Martin",
+      "status": "in-progress",
+      "priority": "high",
+      "dueDate": "2024-02-22"
+    },
+    {
+      "id": 18,
+      "title": "Redesign Checkout Flow",
+      "assignee": "Zoe Perez",
+      "status": "pending",
+      "priority": "high",
+      "dueDate": "2024-03-01"
+    },
+    {
+      "id": 19,
+      "title": "Setup OAuth 2.0",
+      "assignee": "Max Miller",
+      "status": "pending",
+      "priority": "high",
+      "dueDate": "2024-03-05"
+    },
+    {
+      "id": 20,
+      "title": "Client Communication Plan",
+      "assignee": "Ruby Taylor",
+      "status": "completed",
+      "priority": "medium",
+      "dueDate": "2024-01-10"
+    },
+    {
+      "id": 21,
+      "title": "Create ML Model Endpoint",
+      "assignee": "Sam Wilson",
+      "status": "in-progress",
+      "priority": "high",
+      "dueDate": "2024-03-15"
+    },
+    {
+      "id": 22,
+      "title": "Regression Testing Cycle 1",
+      "assignee": "Kate Bell",
+      "status": "completed",
+      "priority": "medium",
+      "dueDate": "2024-01-29"
+    },
+    {
+      "id": 23,
+      "title": "Automate Deployment Script",
+      "assignee": "Will Turner",
+      "status": "pending",
+      "priority": "low",
+      "dueDate": "2024-03-10"
+    },
+    {
+      "id": 24,
+      "title": "Review Technical Specifications",
+      "assignee": "Eve Adams",
+      "status": "in-progress",
+      "priority": "medium",
+      "dueDate": "2024-02-18"
+    }
+  ]
+}
