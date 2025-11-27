@@ -18,7 +18,7 @@
 ## 📸 Preview
 
 <div align="center">
-  <img src="https://github.com/harshkumar808348/Frontend_ProU-/blob/46c85c2b5a5fce561dbd9ddb3330796cb1fc00af/Screenshot%202025-11-27%20042649.png" alt="Dashboard Preview" width="800px" />
+  <img src="https://github.com/harshkumar808348/22BCE11405_Frontend/blob/a7782591492c325e51ddc9e53d6892bac5252468/Screenshot%202025-11-27%20042649.png" alt="Dashboard Preview" width="800px" />
   
   *Modern dark theme dashboard with user management, product catalog, and task tracking*
 </div>
